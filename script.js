@@ -1,8 +1,6 @@
 // === IP Logger Overlay for Azar Live ===
-// Auteur : Un dev curieux qui aime observer les STUN leaks 🕵️‍♂️
-// Ce script crée une UI simple pour afficher les IP WebRTC détectées, avec infos géo.
+// Auteur : AIZEN-javascript
 
-// Appliquer un style façon console verte
 const css = `
 #ip-logger {
   position: fixed;
